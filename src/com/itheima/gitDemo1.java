@@ -6,6 +6,8 @@ public class gitDemo1 {
 
         System.out.println("修改之后再次推到git-hub远程仓库");
         System.out.println("修改之后再次推到git-hub远程仓库");
+        System.out.println("修改之后再次推到git-hub远程仓库");
+        System.out.println("修改之后再次推到git-hub远程仓库");
 
         
     }
